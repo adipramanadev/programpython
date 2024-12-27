@@ -1,0 +1,3 @@
+a = "satria"
+
+print(a)
